@@ -3,7 +3,7 @@ from aiogram.filters import Command
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.context import FSMContext
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
-
+from aiogram import types
 from keyboards.main_menu_kb import main_menu_kb
 
 router = Router()
