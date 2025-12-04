@@ -7,6 +7,14 @@
             "salary": null,
             "experience": "От 1 года до 3 лет",
             "id": "4"
+        },
+        {
+            "title": "3D-визуализатор",
+            "location": "Астана",
+            "url": "https://hh.ru/vacancy/127265685",
+            "salary": null,
+            "experience": "От 1 года до 3 лет",
+            "id": "3"
         }
     ]
 }

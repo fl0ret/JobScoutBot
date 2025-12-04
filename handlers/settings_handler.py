@@ -7,8 +7,7 @@ from aiogram import types
 from keyboards.main_menu_kb import main_menu_kb
 
 router = Router()
-
-
+    
 class SettingsState(StatesGroup):
     city = State()
     salary = State()
